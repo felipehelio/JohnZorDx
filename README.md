@@ -2,7 +2,7 @@
 - 👀 I’m interested in tecnology
 - 🌱 I’m currently learning english/tecnology
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jhonathan.nds@gmail.com
+- 📫 How to reach me jhonathan.engineer@gmail.com
 
 <!---
 John/John is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
